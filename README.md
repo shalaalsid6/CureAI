@@ -31,7 +31,7 @@ Interpreters are rarely there when it matters most: at home, hours after the pha
 ## 💡 Why I built this
 
 > **[Write 3–4 sentences in your own voice here. This is the most important paragraph in the repo.]**
-> *Prompts: Who did you see struggle with a prescription — a family member, a patient at a clinic, a pharmacy customer? What happened? What did it teach you about medicine? Keep it specific and true.*
+> I saw my grandparents who can speak English but have limited English Proficiency in Reading Prescription , I though how I can solve their problems and once I was at the pharmacy I helped an Indian Lady to read his prescription. I thought if I can create an app that will solve this problem. 
 
 ---
 
