@@ -139,14 +139,11 @@ I'm testing CureAI on **synthetic** prescription labels so results can be shared
 - **AI:** *[OCR / vision model you use]* for label extraction · *[translation service]* · *[text-to-speech service]*
 - **Accessibility:** multilingual UI, right-to-left layout support, read-aloud for low-literacy users
 
-### Run it locally
+### Run it using the link
 
-```bash
-git clone https://github.com/<your-username>/cureai.git
-cd cureai
-npm install
-cp .env.example .env   # add your own API keys; never commit this file
-npm run dev
+``
+https://app-development-5yjj.bolt.host
+
 ```
 
 ## 🗺 Roadmap
