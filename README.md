@@ -161,9 +161,9 @@ https://app-development-5yjj.bolt.host
 
 ## 👤 About me
 
-> **[Your name]** · *[school / role]* · aspiring physician
-> *[One line on what draws you to medicine and how this project connects to it.]*
-> *[Email or LinkedIn]*
+> **[Shalaal Siddiqui]** · *[East Meadow High School/ Student ]* · aspiring physician
+> *[ Love how I can become a doctor to server the ailing humanity.]*
+> *[shalaal.siddiqui@gmail.com]*
 
 ---
 
