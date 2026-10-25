@@ -142,6 +142,12 @@ Fill in only numbers you have actually measured.
 - **Accessibility:** multilingual interface, right-to-left layout support, read-aloud for low-literacy users
 <!-- - **AI:** [OCR / vision model] for label extraction · [translation service] · [text-to-speech service] -->
 
+## Video Advertisement 
+
+https://github.com/user-attachments/assets/a921efa6-bc14-4515-8f68-9357dc471001
+
+
+
 ### Try it live
 
 👉 **[Open CureAI](https://app-development-5yjj.bolt.host/)** — no installation needed.
