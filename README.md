@@ -30,7 +30,7 @@ Interpreters are rarely there when it matters most: at home, hours after the pha
 
 ## 💡 Why I built this
 
-> I saw my grandparents who can speak English but have limited English Proficiency in Reading Prescription , I though how I can solve their problems and once I was at the pharmacy I helped an Indian Lady to read his prescription. I thought if I can create an app that will solve this problem. 
+My grandparents speak English, but reading a prescription label is a different challenge: small print, abbreviations, and instructions like “take three times daily” that leave room for doubt. I started thinking about how to make that easier for them. Then, at a pharmacy, I helped an Indian woman who couldn’t read her prescription understand how to take her medication. In that moment I realized my grandparents’ struggle wasn’t unusual; it was shared by many patients, and it often goes unseen. I built CureAI so that no patient has to guess what their prescription says.
 
 ---
 
