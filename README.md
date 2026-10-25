@@ -11,13 +11,17 @@ translates the instructions, and **reads them aloud** in the patient's native la
 [![Languages](https://img.shields.io/badge/Languages-15-0f766e?style=for-the-badge)](#-15-languages-including-the-ones-health-systems-often-miss)
 [![Status](https://img.shields.io/badge/Status-working%20prototype-334155?style=for-the-badge)](#-roadmap)
 
-<a href="docs/cureai-demo.mp4"><img src="docs/cureai-demo.gif" alt="CureAI demo: scan a label, extract the medication, hear it in your language" width="820"></a>
 
-<sub>▶ 38-second walkthrough  <a hre=https://github.com/user-attachments/assets/806290d0-ad6c-48c3-95e6-d022feb06643
+<a href="https://github.com/user-attachments/assets/806290d0-ad6c-48c3-95e6-d022feb06643"><img src="docs/cureai-demo.gif" alt="CureAI demo: scan a label, extract the medication, hear it in your language" width="820"></a>
+
 <sub>▶ Full 38-second walkthrough below</sub>
-</a></sub>
 
 </div>
+
+## ▶️ Watch the demo
+
+https://github.com/user-attachments/assets/806290d0-ad6c-48c3-95e6-d022feb06643
+
 
 ---
 
