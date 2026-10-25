@@ -11,17 +11,11 @@ translates the instructions, and **reads them aloud** in the patient's native la
 [![Languages](https://img.shields.io/badge/Languages-15-0f766e?style=for-the-badge)](#-15-languages-including-the-ones-health-systems-often-miss)
 [![Status](https://img.shields.io/badge/Status-working%20prototype-334155?style=for-the-badge)](#-roadmap)
 
-
-<a href="https://github.com/user-attachments/assets/806290d0-ad6c-48c3-95e6-d022feb06643"><img src="docs/cureai-demo.gif" alt="CureAI demo: scan a label, extract the medication, hear it in your language" width="820"></a>
-
-<sub>▶ Full 38-second walkthrough below</sub>
-
 </div>
-
-## ▶️ Watch the demo
 
 https://github.com/user-attachments/assets/806290d0-ad6c-48c3-95e6-d022feb06643
 
+<p align="center"><sub>▶ 38-second walkthrough of CureAI</sub></p>
 
 ---
 
@@ -36,7 +30,7 @@ Interpreters are rarely there when it matters most: at home, hours after the pha
 
 ## 💡 Why I built this
 
-My grandparents speak English, but reading a prescription label is a different challenge: small print, abbreviations, and instructions like “take three times daily” that leave room for doubt. I started thinking about how to make that easier for them. Then, at a pharmacy, I helped an Indian woman who couldn’t read her prescription understand how to take her medication. In that moment I realized my grandparents’ struggle wasn’t unusual; it was shared by many patients, and it often goes unseen. I built CureAI so that no patient has to guess what their prescription says.
+My grandparents speak English, but reading a prescription label is a different challenge: small print, abbreviations, and instructions like "take three times daily" that leave room for doubt. I started thinking about how to make that easier for them. Then, at a pharmacy, I helped an Indian woman who couldn't read her prescription understand how to take her medication. In that moment I realized my grandparents' struggle wasn't unusual; it was shared by many patients, and it often goes unseen. I built CureAI so that no patient has to guess what their prescription says.
 
 ---
 
@@ -48,8 +42,8 @@ My grandparents speak English, but reading a prescription label is a different c
 <td width="50%" align="center"><b>2 · Understand and listen</b><br><sub>AI extracts drug, dose and frequency, then reads it aloud</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://github.com/shalaalsid6/CureAI/blob/main/phone-scan.png" width="320" alt="Scanning a prescription label"></td>
-<td align="center"><img src="https://github.com/shalaalsid6/CureAI/blob/main/phone-results.png" width="320" alt="Extracted prescription: Amoxicillin 500mg, 1 tablet, 3 times daily, with a Listen in your language button"></td>
+<td align="center"><img src="phone-scan.png" width="320" alt="Scanning a prescription label"></td>
+<td align="center"><img src="phone-results.png" width="320" alt="Extracted prescription: Amoxicillin 500mg, 1 tablet, 3 times daily, with a Listen in your language button"></td>
 </tr>
 </table>
 
@@ -67,7 +61,7 @@ CureAI turns a single English instruction into clear, plain-language guidance fo
 | ਪੰਜਾਬੀ (Punjabi) | ਖਾਣੇ ਨਾਲ ਦਿਨ ਵਿੱਚ ਤਿੰਨ ਵਾਰ ਇੱਕ ਗੋਲੀ ਲਓ। |
 | العربية (Arabic) | تناول قرصًا ثلاث مرات في اليوم مع الطعام. |
 
-<img src="https://github.com/shalaalsid6/CureAI/blob/main/hero-languages.png" alt="CureAI's headline shown in English, Hindi, Arabic, Spanish, Punjabi and Urdu">
+<img src="hero-languages.png" alt="CureAI's headline shown in English, Hindi, Arabic, Spanish, Punjabi and Urdu">
 
 ---
 
@@ -87,21 +81,21 @@ English · Español · हिन्दी · বাংলা · اردو · ਪ�
 
 Right-to-left scripts (Arabic, Urdu) are fully supported.
 
-<img src="docs/screenshots/languages.png" alt="CureAI language picker with 15 languages">
+<img src="languages.png" alt="CureAI language picker with 15 languages">
 
 <details>
 <summary><b>More screenshots</b></summary>
 <br>
 
 **Landing page**
-<img src="docs/screenshots/hero.png" alt="CureAI landing page">
+<img src="hero.png" alt="CureAI landing page">
 
 **Scan → Results walkthrough**
-<img src="https://github.com/shalaalsid6/CureAI/blob/main/step1-scan.png" alt="Scan step">
-<img src="https://github.com/shalaalsid6/CureAI/blob/main/step2-scan.png" alt="Results step">
+<img src="step1-scan.png" alt="Scan step">
+<img src="step3-results.png" alt="Results step">
 
 **Features**
-<img src="https://github.com/shalaalsid6/CureAI/blob/main/features.png" alt="Feature overview">
+<img src="features.png" alt="Feature overview">
 
 </details>
 
@@ -125,30 +119,32 @@ CureAI is built around one rule: **it should help a patient ask better questions
 
 ## 🧪 Validation
 
-I'm testing CureAI on **synthetic** prescription labels so results can be shared openly.
+Testing on **synthetic** prescription labels is in progress, so results can be shared openly without using any patient's data.
+
+<!--
+When you have real results, delete this comment's start and end lines so the table shows.
+Fill in only numbers you have actually measured.
 
 | Test set | Labels | Drug name correct | Dose correct | Frequency correct |
 |---|---|---|---|---|
-| Printed pharmacy labels | *[n]* | *[x%]* | *[x%]* | *[x%]* |
-| Handwritten prescriptions | *[n]* | *[x%]* | *[x%]* | *[x%]* |
+| Printed pharmacy labels | [n] | [x%] | [x%] | [x%] |
+| Handwritten prescriptions | [n] | [x%] | [x%] | [x%] |
 
-**Translation review:** *[e.g. "Hindi and Urdu outputs reviewed by two native speakers; 2 phrasing issues fixed."]*
-**Clinical feedback:** *[e.g. "Reviewed by a community pharmacist, who suggested adding a low-confidence warning."]*
-
-> Fill in only numbers you have actually measured. An honest small test is far more convincing than a big unverified claim.
+**Translation review:** e.g. "Hindi and Urdu outputs reviewed by two native speakers; 2 phrasing issues fixed."
+**Clinical feedback:** e.g. "Reviewed by a community pharmacist, who suggested adding a low-confidence warning."
+-->
 
 ---
 
 ## 🛠 Built with
 
 - **Frontend:** React · Tailwind CSS · Lucide icons, built and deployed with Bolt
-- **AI:** *[OCR / vision model you use]* for label extraction · *[translation service]* · *[text-to-speech service]*
-- **Accessibility:** multilingual UI, right-to-left layout support, read-aloud for low-literacy users
+- **Accessibility:** multilingual interface, right-to-left layout support, read-aloud for low-literacy users
+<!-- - **AI:** [OCR / vision model] for label extraction · [translation service] · [text-to-speech service] -->
 
-### Run it using the link
+### Try it live
 
-https://app-development-5yjj.bolt.host
-
+👉 **[Open CureAI](https://app-development-5yjj.bolt.host/)** — no installation needed.
 
 ## 🗺 Roadmap
 
@@ -158,17 +154,23 @@ https://app-development-5yjj.bolt.host
 - [ ] Pilot with a free clinic or community pharmacy and collect patient feedback
 - [ ] Offline mode for patients with limited data plans
 
+<!--
 ## 📚 What I learned
 
-> **[3–5 bullets in your own words.]**
-> *Prompts: something that surprised you about how prescriptions are written · a safety issue you didn't anticipate · what feedback from a pharmacist, doctor or user changed · why plain language matters as much as translation.*
+Add 3–5 bullets in your own words, then delete this comment's start and end lines.
+Ideas: something that surprised you about how prescriptions are written · a safety issue you didn't anticipate · what feedback from a pharmacist, doctor or user changed · why plain language matters as much as translation.
+-->
 
 ## 👤 About me
 
-> * Shalaal Siddiqui East Meadow High School/ Student  · aspiring physician *
-> * Love how I can become a doctor to server the ailing humanity.*
-> shalaal.siddiqui@gmail.com*
+**Shalaal Siddiqui**<br>
+Student, East Meadow High School · Aspiring physician
 
+I want to become a physician who makes sure every patient understands their own care. Watching my grandparents struggle with their prescription labels, and helping a stranger at the pharmacy read hers, showed me that a language or literacy barrier can stand between a patient and safe treatment. CureAI is my first step toward closing that gap, and I hope to carry the same commitment into medicine: listening carefully, explaining clearly, and serving the communities that are most often overlooked.
+
+📧 [shalaal.siddiqui@gmail.com](mailto:shalaal.siddiqui@gmail.com)
+
+---
 
 <div align="center">
 <sub>CureAI is an educational project and not a medical device. Always confirm medication instructions with your pharmacist or doctor.<br>
