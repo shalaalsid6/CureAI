@@ -42,8 +42,8 @@ My grandparents speak English, but reading a prescription label is a different c
 <td width="50%" align="center"><b>2 · Understand and listen</b><br><sub>AI extracts drug, dose and frequency, then reads it aloud</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="docs/screenshots/phone-scan.png" width="320" alt="Scanning a prescription label"></td>
-<td align="center"><img src="docs/screenshots/phone-results.png" width="320" alt="Extracted prescription: Amoxicillin 500mg, 1 tablet, 3 times daily, with a Listen in your language button"></td>
+<td align="center"><img src="https://github.com/shalaalsid6/CureAI/blob/main/phone-scan.png" width="320" alt="Scanning a prescription label"></td>
+<td align="center"><img src="https://github.com/shalaalsid6/CureAI/blob/main/phone-results.png" width="320" alt="Extracted prescription: Amoxicillin 500mg, 1 tablet, 3 times daily, with a Listen in your language button"></td>
 </tr>
 </table>
 
