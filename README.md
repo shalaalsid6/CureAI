@@ -13,7 +13,9 @@ translates the instructions, and **reads them aloud** in the patient's native la
 
 <a href="docs/cureai-demo.mp4"><img src="docs/cureai-demo.gif" alt="CureAI demo: scan a label, extract the medication, hear it in your language" width="820"></a>
 
-<sub>▶ 38-second walkthrough · <a href="https://github.com/shalaalsid6/CureAI/blob/main/cureai-demo.mp4">full-quality MP4</a></sub>
+<sub>▶ 38-second walkthrough  https://github.com/user-attachments/assets/806290d0-ad6c-48c3-95e6-d022feb06643
+
+</a></sub>
 
 </div>
 
