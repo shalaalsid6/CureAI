@@ -13,7 +13,7 @@ translates the instructions, and **reads them aloud** in the patient's native la
 
 <a href="docs/cureai-demo.mp4"><img src="docs/cureai-demo.gif" alt="CureAI demo: scan a label, extract the medication, hear it in your language" width="820"></a>
 
-<sub>▶ 38-second walkthrough · <a href="docs/cureai-demo.mp4">full-quality MP4</a></sub>
+<sub>▶ 38-second walkthrough · <a href="https://github.com/shalaalsid6/CureAI/blob/main/cureai-demo.mp4">full-quality MP4</a></sub>
 
 </div>
 
@@ -61,7 +61,7 @@ CureAI turns a single English instruction into clear, plain-language guidance fo
 | ਪੰਜਾਬੀ (Punjabi) | ਖਾਣੇ ਨਾਲ ਦਿਨ ਵਿੱਚ ਤਿੰਨ ਵਾਰ ਇੱਕ ਗੋਲੀ ਲਓ। |
 | العربية (Arabic) | تناول قرصًا ثلاث مرات في اليوم مع الطعام. |
 
-<img src="docs/screenshots/hero-languages.png" alt="CureAI's headline shown in English, Hindi, Arabic, Spanish, Punjabi and Urdu">
+<img src="https://github.com/shalaalsid6/CureAI/blob/main/hero-languages.png" alt="CureAI's headline shown in English, Hindi, Arabic, Spanish, Punjabi and Urdu">
 
 ---
 
@@ -91,11 +91,11 @@ Right-to-left scripts (Arabic, Urdu) are fully supported.
 <img src="docs/screenshots/hero.png" alt="CureAI landing page">
 
 **Scan → Results walkthrough**
-<img src="docs/screenshots/step1-scan.png" alt="Scan step">
-<img src="docs/screenshots/step3-results.png" alt="Results step">
+<img src="https://github.com/shalaalsid6/CureAI/blob/main/step1-scan.png" alt="Scan step">
+<img src="https://github.com/shalaalsid6/CureAI/blob/main/step2-scan.png" alt="Results step">
 
 **Features**
-<img src="docs/screenshots/features.png" alt="Feature overview">
+<img src="https://github.com/shalaalsid6/CureAI/blob/main/features.png" alt="Feature overview">
 
 </details>
 
