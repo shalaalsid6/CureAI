@@ -141,10 +141,8 @@ I'm testing CureAI on **synthetic** prescription labels so results can be shared
 
 ### Run it using the link
 
-``
 https://app-development-5yjj.bolt.host
 
-```
 
 ## 🗺 Roadmap
 
@@ -165,7 +163,6 @@ https://app-development-5yjj.bolt.host
 > *[ Love how I can become a doctor to server the ailing humanity.]*
 > *[shalaal.siddiqui@gmail.com]*
 
----
 
 <div align="center">
 <sub>CureAI is an educational project and not a medical device. Always confirm medication instructions with your pharmacist or doctor.<br>
