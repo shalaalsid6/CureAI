@@ -159,9 +159,9 @@ https://app-development-5yjj.bolt.host
 
 ## 👤 About me
 
-> **[Shalaal Siddiqui]** · *[East Meadow High School/ Student ]* · aspiring physician
-> *[ Love how I can become a doctor to server the ailing humanity.]*
-> *[shalaal.siddiqui@gmail.com]*
+> * Shalaal Siddiqui East Meadow High School/ Student  · aspiring physician *
+> * Love how I can become a doctor to server the ailing humanity.*
+> shalaal.siddiqui@gmail.com*
 
 
 <div align="center">
